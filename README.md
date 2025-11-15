@@ -1,2 +1,2 @@
-# Projrcts
+# Projects
 My Projects
